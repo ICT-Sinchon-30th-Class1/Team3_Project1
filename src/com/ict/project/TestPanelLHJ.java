@@ -14,5 +14,6 @@ public class TestPanelLHJ extends JPanel {
 		JLabel jLabel = new JLabel("LHJ", JLabel.CENTER);
 		
 		add(jLabel, BorderLayout.CENTER);
+		
 	}
 }
