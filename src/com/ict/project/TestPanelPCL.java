@@ -13,7 +13,7 @@ public class TestPanelPCL extends JPanel{
 public TestPanelPCL() {
 
 	super(new BorderLayout());
-	setBackground(Color.pink);
+	setBackground(new Color(211, 195, 243));
 	
 	JButton jb1 = new JButton("안녕하세용");
 	
