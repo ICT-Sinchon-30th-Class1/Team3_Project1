@@ -29,7 +29,7 @@ public class TestMainFrame extends JFrame implements ActionListener {
 		jpArr[2] = new TestPanelKSJ(); 
 		jpArr[3] = new TestPanelKJH(); 
 		jpArr[4] = new TestPanelJSY(); 
-		jpArr[5] = new JPanel(); 
+		jpArr[5] = new TestPanelTYS(); 
 		
 		for (int i = 0; i < jbArr.length; i++) {
 			String tmp = Integer.toString(i);
