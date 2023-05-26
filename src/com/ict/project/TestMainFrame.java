@@ -27,7 +27,7 @@ public class TestMainFrame extends JFrame implements ActionListener {
 		jpArr[0] = new TestPanelLHJ();
 		jpArr[1] = new TestPanelPCL(); 
 		jpArr[2] = new TestPanelKSJ(); 
-		jpArr[3] = new JPanel(); 
+		jpArr[3] = new TestPanelKJH(); 
 		jpArr[4] = new JPanel(); 
 		jpArr[5] = new JPanel(); 
 		
